@@ -1,3 +1,3 @@
-- 👋 Hi, I’m isaevmik
-- 🌱 I’m currently learning C++. Python2/3, SQL
+- 👋 Hi, I’m Michael
+- 🌱 I’m currently coding with C++. Python2/3
 - 📫 Telegram: @thomasparovoz
